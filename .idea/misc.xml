@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_favorite_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_search.xml" value="0.1345" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/ic_share_24dp.xml" value="0.1345" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/logo_text.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/splash_logo.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_detail_news.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_searchable.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_about_al_quran.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_al_jazeera.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_common.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/fragment_warning_for_muslim.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/item_row_news.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/layout/loading_indicator.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/NewsApp/app/src/main/res/xml/searchable.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
