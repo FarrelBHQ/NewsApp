@@ -22,7 +22,7 @@
             android:layout_height="?attr/actionBarSize"
             android:background="@color/white"
             app:layout_scrollFlags="scroll|enterAlways"
-            app:logo="@drawable/logo_text"
+            app:logo="@drawable/ic_logo_text"
             app:popupTheme="@android:style/ThemeOverlay.Material.Light"
             app:titleTextColor="@android:color/transparent" />
 
